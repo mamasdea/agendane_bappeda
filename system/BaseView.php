@@ -295,16 +295,15 @@ class BaseView
 			echo $report_body;
 			return;
 		} elseif ($page_format == "pdf") {
-			$report_body = $this->parse_report_html(); //get exportable content
+			$report_body = $this->parse_report_html(); // Mendapatkan HTML yang akan dirender
 			$filename = $this->report_filename;
 			$dompdf = new Dompdf();
 			$dompdf->loadHtml($report_body);
-			$dompdf->set_option('isRemoteEnabled', true); //allow to display external images
-			// (Optional) Setup the paper size and orientation
+			// Pastikan remote enable jika ada gambar/asset eksternal
+			$dompdf->set_option('isRemoteEnabled', true);
+			// Pastikan ukuran kertas & orientasi valid
 			$dompdf->setPaper($this->report_paper_size, $this->report_orientation);
-			// Render the HTML as PDF
 			$dompdf->render();
-			// Output the generated PDF to Browser
 			$dompdf->stream("$filename.pdf");
 			return;
 		} elseif ($page_format == "word") {
