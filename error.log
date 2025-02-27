@@ -130,3 +130,5 @@
 [27-Feb-2025 04:13:55 UTC] PHP Fatal error:  Cannot redeclare tgl_indo() (previously declared in C:\laragon\www\agendane\app\views\layouts\report_layout.php:282) in C:\laragon\www\agendane\app\views\layouts\report_layout.php on line 304
 [27-Feb-2025 04:20:37 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
 [27-Feb-2025 04:20:40 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 04:52:34 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 04:52:41 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
