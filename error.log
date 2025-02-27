@@ -132,3 +132,11 @@
 [27-Feb-2025 04:20:40 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
 [27-Feb-2025 04:52:34 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
 [27-Feb-2025 04:52:41 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 04:58:08 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 05:01:34 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 05:01:43 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 05:01:59 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 05:06:03 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_agenda\list.php on line 303
+[27-Feb-2025 05:06:12 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_rr\list.php on line 320
+[27-Feb-2025 05:07:22 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_rr\list.php on line 320
+[27-Feb-2025 05:07:27 UTC] PHP Deprecated:  Creation of dynamic property Pagination::$route is deprecated in C:\laragon\www\agendane\app\views\partials\tb_rr\list.php on line 320
